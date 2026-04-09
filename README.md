@@ -16,5 +16,4 @@ A simple console-based Tic Tac Toe game written in C++.
 - Conditional statements
 
 ## Author
-Syeda Fatima# tic-tac-toe-game
-A console-based Tic Tac Toe game developed in C++ using arrays, loops, and functions.
+Syeda Fatima
